@@ -3,6 +3,7 @@ https://code.visualstudio.com/
 https://github.com/Aakashdeveloper
 https://github.com/
 
+MERN
 
 Basic JavaScript
 Npm
@@ -19,7 +20,6 @@ Depolyment
 Github
 React-Redux =2
 Testing
-////////
 React-Saga -1
 Basic React Native=1
 
@@ -346,3 +346,14 @@ redux-promise enzyme enzyme-adapter-react-16 react-addons-test-utils react-test-
 
 goinside the app
 > npm run web
+expo client
+
+
+{
+	"_id" : ObjectId("5f8cff33a15593cf743641df"),
+	"name" : "Aakash",
+	"email" : "aa@gmail.com",
+	"password" : "$2a$08$4dKN8wkTdnhzorFaCGoJXulpuJdL9M2rHqBL6z2/u.ScaJo6oBD6q",
+	"role" : "User",
+	"__v" : 0
+}
